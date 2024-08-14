@@ -14,11 +14,11 @@ Desenvolva a classe e a aplicação separadamente. O projeto deve, então, ser d
 
 ## Resolução
 
-Criação da Classe Computador
+1. Criação da Classe Computador
 
 <img src="https://github.com/user-attachments/assets/3e9795a9-02be-48d0-96ac-3ea95e53e814" height="300" width="300"/>
 
-Criação da classe "AppComputador" para instanciar quatro objetos do tipo Computador.
+2. Criação da classe "AppComputador" para instanciar quatro objetos do tipo Computador.
 
 ## Habilidades Desenvolvidas
 
