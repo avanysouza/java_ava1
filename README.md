@@ -34,6 +34,6 @@ IntelliJ IDEA 2024.2 (Ultimate Edition)
 
 Desenvolvedora: Avany Souza
 
-![image](https://github.com/user-attachments/assets/c195289c-83df-4968-88d9-13044f655143)
+![image](https://github.com/user-attachments/assets/61cf1603-48bc-4692-a027-d68a4431fa44)
 
 
